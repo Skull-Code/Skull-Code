@@ -11,5 +11,5 @@
 
 ## 🔗Links
 
--🎤 [Discord](https://discord.gg/GAmWAXexvV)
--🛒 [Tebex](https://scube.tebex.io/)
+- 🎤 [Discord](https://discord.gg/GAmWAXexvV)
+- 🛒 [Tebex](https://scube.tebex.io/)
