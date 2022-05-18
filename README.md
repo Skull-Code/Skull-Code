@@ -12,4 +12,5 @@
 ## 🔗Links
 
 🎤 [Discord](https://discord.gg/GAmWAXexvV)
+
 🛒 [Tebex](https://scube.tebex.io/)
