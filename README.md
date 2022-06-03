@@ -2,7 +2,7 @@
 
 #### First of all, I would like to say that I am still learning and I am still educating myself
 
-## 🍀My Skills
+## 🍀My Skill
 
 - 🐍Python
 - <_HTML
