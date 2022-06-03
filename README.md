@@ -4,7 +4,7 @@
 
 ## 🍀My Skills
 
-- 🐍Python
+- 🐍[Python](https://github.com/Skull-Code/Skull-Code/tree/Python)
 - <_HTML
 - 💻Lua  **_still learning_**
 - 🌐Network
