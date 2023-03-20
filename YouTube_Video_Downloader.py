@@ -21,4 +21,4 @@ ys.download()
 print(ys.filesize)
 
 
-print("Videio download Succes!")
+print("Video download Succes!")
