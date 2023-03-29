@@ -6,6 +6,8 @@
 
 - 🐍[Python](https://github.com/Skull-Code/Skull-Code/tree/Python)
 - <_HTML
+- ✏️CSS
+- 🔗JavaScript
 - 💻Lua  **_still learning_**
 - 🌐Network
 
