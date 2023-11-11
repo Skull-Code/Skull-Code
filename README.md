@@ -21,3 +21,4 @@
 
 
 ## 💲Donate
+- ☕ [Buy me a Coffe](https://www.buymeacoffee.com/skullcode)
