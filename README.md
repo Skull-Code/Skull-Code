@@ -21,5 +21,3 @@
 
 
 ## 💲Donate
-- ⟠ Ethereum: 0x3913f8b46d3B54C060e42EaffC90Cc8A735D8601
-- ₿ Bitcoin: bc1qxf7m2scrcf704zmrzqlpwarxm46akag09rkcm9
