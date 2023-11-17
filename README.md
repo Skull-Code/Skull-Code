@@ -24,7 +24,7 @@ const skullcode = {
     databases: ['MariaDB', 'MySQL'],
   },
   currentProject: "between anything and nothing",
-  funFact: "When there are less errors there are less voices in my head."
+  funFact: "The Voices are getting louder and louder with any day."
 };
 
 ```
